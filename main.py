@@ -1,1 +1,2 @@
-print("afghanistan")
+print("sarwar")
+print
