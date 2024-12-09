@@ -1,5 +1,1 @@
-def hello():
-  print("hi")
-
-
-print(hello())
+print("HELLO")
